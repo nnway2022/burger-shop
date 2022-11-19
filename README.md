@@ -9,6 +9,7 @@ This is a burger shop app to choose the burgers, check the product details, revi
 
 ### To run, open 2 terminals:
 
+- npm install
 - npm start
 - npx json-server -p 3001 db.json
 
