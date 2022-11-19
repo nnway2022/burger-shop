@@ -7,9 +7,10 @@ This is a burger shop app to choose the burgers, check the product details, revi
 
 - React Hooks
 
-### To run, open 2 terminals:
+### To run 
 
 - npm install
+#### Open 2 terminals:
 - npm start
 - npx json-server -p 3001 db.json
 
