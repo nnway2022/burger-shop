@@ -1,4 +1,4 @@
-# Burgers Booking App
+# Burger Shop App
 
 
 This is a burger shop app to choose the burgers, check the product details, review and update in checkout, and order the burger by filing the customer details form.
