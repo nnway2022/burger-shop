@@ -1,0 +1,69 @@
+.coverPage {
+    height: 60vh;
+    width: 100%;
+    background-image: url('../../../src/images/bgImages/coverBg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    .coverText {
+        width: 442px;
+        position: absolute;
+        top: 29%;
+        color: white;
+        left: 46%;
+        font-size: 1.5em;
+    }
+
+    button {
+        color: white;
+        margin-top: 20px;
+        padding: 9px 20px;
+        background: transparent;
+        border: 2px solid #FFC700;
+        cursor: pointer;
+    }
+}
+
+.introlSection {
+    background-image: url('/backgroundShapes/carrot.svg'),
+    url('/backgroundShapes/cheese.svg'), 
+    url('/backgroundShapes/noodleInbowl.svg'), 
+    url('/backgroundShapes/juice.svg'), 
+    url('/backgroundShapes/foodBasket.svg'),
+    url('/backgroundShapes/carrot.svg'), 
+    url('/backgroundShapes/cheese.svg'), 
+    url('/backgroundShapes/noodleInbowl.svg'),
+    url('/backgroundShapes/carrot.svg'), 
+    url('/backgroundShapes/juice.svg');
+            background-repeat: no-repeat;
+            background-position: bottom 50px left 63px,bottom 200px left 500px,  top 192px left 284px, top 30px left 449px,  bottom 355px left 301px,  
+            top 340px left 10px, top 10px left 18px, top 696px left 37px, bottom 631px left 512px, top 450px left 306px;
+
+.intro1, .intro2, .intro3 {
+    display: flex;
+    
+    div{
+        width: 50%;
+
+        .text{
+            width: 78%;
+            margin: 100px auto;
+
+            h1 {
+                font-size: 2.5em;
+                margin-bottom: 20px;
+            }
+            p {
+                width: 80%;
+            }
+        }
+    }
+    div{
+        width: 50%;
+        height: 100%;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+}}
